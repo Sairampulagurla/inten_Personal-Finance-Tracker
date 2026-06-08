@@ -11,7 +11,7 @@ Personal Finance Tracker is a web-based application that helps users manage thei
 **Deployment Platform:** Vercel
 
 **Live URL:**  
-https://your-project-name.vercel.app
+https://inten-personal-finance-tracker.vercel.app/
 
 ---
 
